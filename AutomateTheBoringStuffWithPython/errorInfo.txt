@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Users\Yuki Tanaka\Documents\python_how2use\AutomateTheBoringStuffWithPython\chapter10.py", line 24, in <module>
+    spam()
+  File "C:\Users\Yuki Tanaka\Documents\python_how2use\AutomateTheBoringStuffWithPython\chapter10.py", line 12, in spam
+    bacon(a)
+  File "C:\Users\Yuki Tanaka\Documents\python_how2use\AutomateTheBoringStuffWithPython\chapter10.py", line 17, in bacon
+    raise EqualOneError("引数の値が1です。")
+EqualOneError: 引数の値が1です。
